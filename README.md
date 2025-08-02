@@ -37,7 +37,8 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 ![image atl](https://github.com/chrisblu15/EXCEL-DSA-PROJECT/blob/4d4d99290af2d5da6e143c6508f6c7550270d6f8/Screenshot%20Pivot%20Table%202.png)
 ![image atl](https://github.com/chrisblu15/EXCEL-DSA-PROJECT/blob/fc3cd280555c65c01154f363c209131ab03cc73a/Screenshot%20Pivot%20Table%203.png)
 ![image atl](https://github.com/chrisblu15/EXCEL-DSA-PROJECT/blob/d5b424bc889a9ce90e32463f854fa406023b2645/Screenshot%20Pivot%20Table%204.png)
-![image atl](
+![image atl](https://github.com/chrisblu15/EXCEL-DSA-PROJECT/blob/93a43a4eb59ba96fa92d3ffa88640ac80c8af141/Screenshot%20dashboard.png)
+
 ## Author
 Christopher Abolade
 
