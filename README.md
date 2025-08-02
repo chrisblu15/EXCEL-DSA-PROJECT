@@ -32,7 +32,12 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 - Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 
 ### ANALYSIS
-
+![image atl](
+![image atl](
+![image atl](
+![image atl](
+![image atl](
+![image atl](
 ## Author
 Christopher Abolade
 
