@@ -32,7 +32,7 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 - Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 
 ### ANALYSIS
-![image atl](
+![image atl](https://github.com/chrisblu15/EXCEL-DSA-PROJECT/blob/2607c669416ec826957e9d337b0a40c203b94676/Screenshot%20Pivot%20Table.png)
 ![image atl](
 ![image atl](
 ![image atl](
