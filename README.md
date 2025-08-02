@@ -31,6 +31,8 @@ This project is part of the DSA Data Analysis Capstone and focuses on performing
 - A few products significantly outperform others in both rating and review count.
 - Revenue estimation based on actual_price × review_count highlights the top-grossing categories.
 
+### ANALYSIS
+
 ## Author
 Christopher Abolade
 
